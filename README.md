@@ -1,5 +1,5 @@
 # FDTD
-FDTD code for general electronmagnetics analysis
+FDTD code for general electromagnetics analysis
 
 Hi.  I'm here.
 
